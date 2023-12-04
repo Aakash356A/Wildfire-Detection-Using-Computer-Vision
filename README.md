@@ -6,7 +6,7 @@ Growing Wildfire has come a global concern and there is an immediate need of dev
 Project:
 This project uses ResNet50 (residual network) to classify a image into fire,neutral and smoke. Detection of smoke is signification as it can create alert for fires and early detection can help in reducing the damage of life and property
 
-
+Results Obtained:
 
 
 Dataset link - https://drive.google.com/drive/folders/1-3jebe6EG8r5rBJ_YV3daebqdF9rKKmH?usp=drive_link
