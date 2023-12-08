@@ -8,6 +8,7 @@ This project uses ResNet50 (residual network) to classify a image into fire,neut
 
 Results Obtained:
 
+
 ![Result1](https://github.com/Aakash356A/Wildfire-Detection-Using-Computer-Vision/blob/c643ad21cdc2144e245e810ff3af560e17d570c5/result2.png)
 
 
